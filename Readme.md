@@ -1,6 +1,6 @@
-#AI Algorithms Repository
+# AI Algorithms Repository
 
 
-Algorithm - Completed Date
+## Algorithm - Completed Date
 
-Supervised
+### Supervised
