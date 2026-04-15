@@ -2,4 +2,4 @@
 
 
 
-### Supervised
+### Supervised Algorithms
