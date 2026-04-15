@@ -1,2 +1,6 @@
-# This is a repository of AI algorithms and auxiliary programs for easy reference.
+#AI Algorithms Repository
 
+
+Algorithm - Completed Date
+
+Supervised
